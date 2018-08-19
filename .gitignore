@@ -18,3 +18,23 @@ Homestead.json
 
 # Rocketeer PHP task runner and deployment package. https://github.com/rocketeers/rocketeer
 .rocketeer/
+
+curso-laravel-express-tdd/vendor/
+curso-laravel-express-tdd/node_modules/
+
+# Laravel 4 specific
+curso-laravel-express-tdd/bootstrap/compiled.php
+curso-laravel-express-tdd/app/storage/
+
+# Laravel 5 & Lumen specific
+curso-laravel-express-tdd/public/storage
+curso-laravel-express-tdd/public/hot
+curso-laravel-express-tdd/storage/*.key
+curso-laravel-express-tdd/.env.*.php
+curso-laravel-express-tdd/.env.php
+curso-laravel-express-tdd/.env
+curso-laravel-express-tdd/Homestead.yaml
+curso-laravel-express-tdd/Homestead.json
+
+# Rocketeer PHP task runner and deployment package. https://github.com/rocketeers/rocketeer
+curso-laravel-express-tdd/.rocketeer/
