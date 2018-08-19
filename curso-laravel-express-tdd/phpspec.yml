@@ -1,5 +1,0 @@
-suites:
-    main:
-        namespace: laravel_express
-        psr4_prefix: laravel_express
-        src_path: app
