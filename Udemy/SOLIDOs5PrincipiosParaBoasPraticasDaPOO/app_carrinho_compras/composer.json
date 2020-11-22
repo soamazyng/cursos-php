@@ -1,0 +1,11 @@
+{
+    "name": "soama/app_carrinho_compras",
+    "type": "\u001b[D\u001b[D\u001b[Cject",
+    "authors": [
+        {
+            "name": "Jay Benedicto",
+            "email": "soamazing@gmail.com"
+        }
+    ],
+    "require": {}
+}
